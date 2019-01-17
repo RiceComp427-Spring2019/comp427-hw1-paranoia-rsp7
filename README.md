@@ -40,9 +40,9 @@ please cut-and-paste the text from that email here._
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
-  - explain_your_assumptions
+  - I am assuming that, for administrative or logistical reasons, I am the only grader for the class of 200+ students. For simplicity, I will assume that the class is an introductory, core computer science course at Rice University, and that the class roster represents an average set of computer science majors at Rice. Hence most, but not all, of the students respect the Honor Code. Lastly, I assume that the homework is written (i.e., no programming involved), with submissions required to be through Canvas, typeset, and strictly on time.
 - Assets:
-  - explanatory_paragraph
+  - The key asset to be protected is 
   - explanatory_paragraph ...
 - Threats:
   - explanatory_paragraph 
